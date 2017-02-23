@@ -9,5 +9,6 @@
           first: "Mohammed",
           last: "Helmy"
         }
+        $scope.messege = "Hello EveryBody";
       });
 })();
